@@ -1,1 +1,0 @@
-x=msgbox("Currently Running NotReady (64-bit) v1.0.2.1" ,64, "Launch Info")
